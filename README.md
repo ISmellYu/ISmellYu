@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/a33e8a44-297b-4dd5-9e38-ef46db31eba1.svg)](https://wakatime.com/@a33e8a44-297b-4dd5-9e38-ef46db31eba1)
 <!--
 **ISmellYu/ISmellYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
