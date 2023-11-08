@@ -1,4 +1,4 @@
-# Looking for a job right now :)
+# Looking for a job right now
 
 ## Contact
 
