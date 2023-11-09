@@ -1,4 +1,4 @@
-# Looking for a job right now
+# Looking for a job right now, feel free to contact me if u want to hire me 😄
 
 ## Contact
 
