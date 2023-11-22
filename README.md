@@ -1,5 +1,3 @@
-# Looking for a job right now, feel free to contact me if u want to hire me 😄
-
 ## Experience
 
 1. **ASP.NET Web Apps**
